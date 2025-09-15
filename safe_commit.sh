@@ -14,7 +14,7 @@ OLD_NAME=$(git config user.name)
 OLD_EMAIL=$(git config user.email)
 
 # Set temporary user info
-git config user.name "Scizor-CoRL2025"
+git config user.name "Scizor-ICRA2026"
 git config user.email "scizor.corl.2025@gmail.com"
 
 # Commit with the provided message
